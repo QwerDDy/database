@@ -1,4 +1,6 @@
 # database
 
 <h1>lab work - 1 :</h1>
-[Figma Design](https://www.figma.com/design/esX0OQBljaeKQViiEwPOy0/%D0%90%D2%9B%D0%BD%D0%B0%D0%B7%D0%B0%D1%80-%D0%95%D1%81%D0%B5%D0%BD%D2%9B%D0%B0%D0%B6%D1%8B-s-team-library?node-id=3311-3&m=dev&t=PO8q30UxVTROIBT0-1)
+
+[Uploading Frame 1.pdf…]()
+
